@@ -1,8 +1,7 @@
-/*
+
         # TODO LIST:
         - [x] UPDATE INCLUDE TO OPEN.MP
                 - [x] UPDATE CALLBACKS
         - [x] CHANGE ACTORS TO DYNAMIC ACTORS (STREAMER)
         - [ ] IMPLEMENT ROBBERY_ACTORS TO GAMEMODE ROBBERY_SYSTEM
         - [ ] 
-*/
